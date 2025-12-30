@@ -11,9 +11,10 @@ Basel III RWA: Applied the Standardised Approach (SA) risk weights (20% to 150%)
 Weighted Average Probability of Default (WAPD): Used SQL Window Functions to calculate risk density across sectors, identifying Retail as the most capital-intensive industry (150% average risk weight).
 
 🛠️ Tech Stack
-•	Database: Google BigQuery (SQL)
-•	Skills: Data modelling, CTEs, multi table join, Subqueries, Case Logic, Sector-based Risk Aggregation.
-•	Domain: Credit Risk Analytics, IFRS 9, Basel III.
+
+- Database: Google BigQuery (SQL)
+- Skills: Data modelling, CTEs, multi table join, Subqueries, Case Logic, Sector-based Risk Aggregation.
+- Domain: Credit Risk Analytics, IFRS 9, Basel III.
 
 SQL Logic: Window functions (OVER()), conditional logic (CASE WHEN), and performance metrics.
 
