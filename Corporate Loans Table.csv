@@ -1,0 +1,21 @@
+loan_id,company,industry,ead,rating,region
+L-CORP-013,Nu Agriculture,Agriculture,6000000,A,East Anglia
+L-CORP-014,Xi Chemicals,Manufacturing,18000000,A,North East
+L-CORP-001,Alpha Tech,Technology,5000000,A,London
+L-CORP-010,Kappa FinTech,Technology,9000000,A,London
+L-CORP-004,Delta Energy,Energy,25000000,AA,Scotland
+L-CORP-020,Upsilon Education,Public Sector,5500000,AA,South East
+L-CORP-015,Omicron Ports,Transport,22000000,AA,South East
+L-CORP-017,Rho Renewables,Energy,12500000,AAA,Scotland
+L-CORP-006,Zeta Pharma,Healthcare,15000000,AAA,South East
+L-CORP-019,Tau Textiles,Manufacturing,2500000,B,North West
+L-CORP-005,Epsilon Retail,Retail,2000000,B,Yorkshire
+L-CORP-009,Iota Hospitality,Retail,4500000,B,South West
+L-CORP-002,Beta Builders,Construction,12000000,BB,North West
+L-CORP-011,Lambda Steel,Manufacturing,11000000,BB,Wales
+L-CORP-008,Theta Real Estate,Real Estate,30000000,BB,London
+L-CORP-007,Eta Manufacturing,Manufacturing,7000000,BBB,East Midlands
+L-CORP-018,Sigma Properties,Real Estate,45000000,BBB,London
+L-CORP-012,Mu Media,Technology,3000000,BBB,Manchester
+L-CORP-003,Gamma Logistics,Transport,8500000,BBB,West Midlands
+L-CORP-016,Pi Retail,Retail,1500000,CCC,London

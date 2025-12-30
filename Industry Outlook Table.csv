@@ -1,0 +1,11 @@
+industry,stress_factor
+Energy,0.9
+Healthcare,1.0
+Public Sector,1.0
+Technology,1.0
+Transport,1.1
+Agriculture,1.15
+Manufacturing,1.2
+Construction,1.35
+Real Estate,1.4
+Retail,1.5
